@@ -9,7 +9,7 @@ var i= 0
 function update()
 {
 i++;
-var paulinholoko = 4
+var paulinholoko = 5
 if(i > paulinholoko)
 {
     i = 0
