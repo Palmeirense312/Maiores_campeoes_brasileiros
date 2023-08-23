@@ -1,5 +1,5 @@
 var Times=[
-"Campeonato_Brasileiro_de_Futebol_de_2022_-_Série_A.png","Palmeiras_logo.svg.png","Santos_logo.png","i.png","Flamengo_braz_logo.svg.png","Brasao_do_Sao_Paulo_Futebol_Clube.svg.png"
+"Campeonato_Brasileiro_de_Futebol_de_2022_-_Série_A.png","Palmeiras_logo.svg.png","Santos_Logo.png","i.png","Flamengo_braz_logo.svg.png","Brasao_do_Sao_Paulo_Futebol_Clube.svg.png"
 
 ];
 var nome=[
